@@ -8289,10 +8289,10 @@ section, header {
 .header16 {
     position: relative;
     /* background: url('../images/svg/data_process.svg') no-repeat scroll center top / cover; */
-    background: url('https://images.pexels.com/photos/2304917/pexels-photo-2304917.jpeg?cs=srgb&dl=bird-s-eye-view-photography-of-high-rise-buildings-2304917.jpg&fm=jpg') no-repeat scroll center top / cover;
+    background: url('https://images.unsplash.com/photo-1588346422523-6525811546ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') no-repeat scroll center top / cover;
 
 
-    /* background: url('../images/background/bg4.jpg') no-repeat scroll center top / cover;   */
+    /* background: url('../images/background/bg4.jpg') no-repeat scroll center top / cover; */
     z-index: 1;
 }
 
