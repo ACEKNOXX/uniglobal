@@ -5568,7 +5568,7 @@ section, header {
 .content-section16 {
     background-color: transparent;
     padding: 10rem 0;
-    background: url(../images/highlight1.jpg) scroll no-repeat center top / cover;
+    background: url(../images/no-blur.jpg) scroll no-repeat center top / cover;
 }
 
 .content-section16 .highlight-text {
@@ -8289,8 +8289,9 @@ section, header {
 .header16 {
     position: relative;
     /* background: url('../images/svg/data_process.svg') no-repeat scroll center top / cover; */
-    background: url('https://images.unsplash.com/photo-1588346422523-6525811546ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') no-repeat scroll center top / cover;
+    /* background: url('https://images.unsplash.com/photo-1588346422523-6525811546ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') no-repeat scroll center top / cover; */
 
+background: url('https://res.cloudinary.com/unitech-global-resource/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1588246224/flyer_2_orhakb.jpg') no-repeat scroll center top / cover;
 
     /* background: url('../images/background/bg4.jpg') no-repeat scroll center top / cover; */
     z-index: 1;
